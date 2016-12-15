@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\Workspace\demo\WaveView\app\src\main\assets"/><source path="H:\Workspace\demo\WaveView\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\Workspace\demo\WaveView\app\src\debug\assets"/></dataSet></merger>

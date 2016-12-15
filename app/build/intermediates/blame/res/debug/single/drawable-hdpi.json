@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Workspace\\demo\\WaveView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\Workspace\\demo\\WaveView\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Workspace\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\Workspace\\demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

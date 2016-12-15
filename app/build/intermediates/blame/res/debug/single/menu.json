@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Workspace\\demo\\WaveView\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\Workspace\\demo\\WaveView\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\Workspace\\demo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\Workspace\\demo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
